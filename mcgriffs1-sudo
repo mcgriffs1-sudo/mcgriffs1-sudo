@@ -1,0 +1,32 @@
+<html>
+<head>
+<title>Solomon McGriff, CSIT100_04, 9/14/2025</title>
+</head>
+<body style="background-color:orange;">
+  <h1 style="text-align:center; color:white; font-size:48px;">Solomon McGriff, CSIT100_04, 9/14/2025</h1>
+  Paragraph: 
+  <p style="font: bold 32px cursive;color:green;text-align:center;">Hello!</p>
+  <ul>
+    <li style="font-size:20px;">Hi my name is Solomon McGriff and this is my first html page</li>
+    <li style="font-size:24px;">My hobbies include photography, traveling, and skating</li>
+  </ul>
+  <div style="text-align:center;">
+    <img src="https://www.getty.edu/art/exhibitions/fashion_photography/images/gm_36475601_Original_x1024.jpg" alt="Fashion Photography" style="max-width:600px; width:100%; height:auto;" />
+  </div>
+  <hr />
+  <table align="center" border="1" width="800">
+    <tr>
+      <td>Place Holder</td>
+      <td>Place Holder</td>
+    </tr>
+    <tr>
+      <td>Place Holder</td>
+      <td>Place Holder</td>
+    </tr>
+  </table>
+  <hr />
+  <a href="https://montclair.edu">Montclair State University</a><br>
+  <a href="https://fashionfav.com/fashion/arcteryx-x-jil-sander-fall-winter-2021/">Arc'teryx x Jil Sander FW21</a><br>
+  <a href="https://kelianne.com/">Kelianne</a>
+</body>
+</html>
